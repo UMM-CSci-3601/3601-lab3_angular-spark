@@ -42,7 +42,7 @@ dependencies {
   testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
 
   // JUnit Jupiter Engine for testing.
-  testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.6.0'
+  testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.6.1'
 
   // Mockito for testing
   testImplementation 'org.mockito:mockito-core:3.2.4'
