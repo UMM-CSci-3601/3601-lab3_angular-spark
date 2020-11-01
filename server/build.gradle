@@ -26,7 +26,7 @@ mainClassName = 'umm3601.Server'
 // External dependencies that our application utilizes
 dependencies {
   // Google core libraries for Java, various useful utilities
-  implementation 'com.google.guava:guava:28.2-jre'
+  implementation 'com.google.guava:guava:30.0-jre'
 
   // Javalin, a simple web framework for Java
   compile 'io.javalin:javalin:3.7.0'
